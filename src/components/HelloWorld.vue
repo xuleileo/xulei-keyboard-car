@@ -83,6 +83,10 @@ export default {
     display: flex;
     justify-content: center;
     align-items: center;
+    outline: none;
+  }
+  .row button:hover {
+    background: #27d0a7;
   }
   .row .blank{
     width: 46vw;
