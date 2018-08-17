@@ -1,6 +1,6 @@
 # keyboard
 
-> A Vue.js project
+![image](https://github.com/xuleileo/xulei-keyboard-car/blob/master/static/images/keyboard.jpg)
 
 ## Build Setup
 
